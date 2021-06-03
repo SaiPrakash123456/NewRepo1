@@ -184,6 +184,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>MeNorthwind.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Models\ExampleGit.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Supplier.cs">
       <DependentUpon>MeNorthwind.tt</DependentUpon>
@@ -259,7 +260,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
     <Folder Include="Views\ExampleGit\" />
   </ItemGroup>
   <ItemGroup>
